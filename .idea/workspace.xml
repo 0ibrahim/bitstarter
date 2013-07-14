@@ -7,6 +7,7 @@
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1373836866906" ignored="false" />
+    <file path="/web.js" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1373837134946" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +30,18 @@
       <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="18" selection-start="254" selection-end="254" vertical-scroll-proportion="0.31578946">
+            <state line="11" column="40" selection-start="288" selection-end="288" vertical-scroll-proportion="0.34736842">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -235,7 +241,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="254" selection-end="254" vertical-scroll-proportion="0.31578946">
+        <state line="11" column="40" selection-start="288" selection-end="288" vertical-scroll-proportion="0.34736842">
           <folding />
         </state>
       </provider>
