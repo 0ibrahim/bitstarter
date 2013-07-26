@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checks.json" afterPath="$PROJECT_DIR$/checks.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grader.js" afterPath="$PROJECT_DIR$/grader.js" />
-    </list>
+    <list default="true" id="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" name="Default" comment="" />
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374413967251" ignored="false" />
+    <file path="/Dummy.txt" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374584003401" ignored="false" />
     <file path="/web.js" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374411125686" ignored="false" />
-    <file path="/index.html" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374414883009" ignored="false" />
+    <file path="/index.html" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374584032277" ignored="false" />
     <file path="/grader.js" changelist="b0ee5846-60c6-4c24-a9ed-c8e9d6f08a8f" time="1374432372259" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,25 +30,25 @@
       <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="19" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="26" selection-start="2819" selection-end="2819" vertical-scroll-proportion="-7.8333335">
+            <state line="10" column="37" selection-start="391" selection-end="391" vertical-scroll-proportion="0.36319613">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grader.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="grader.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="36" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.42334095">
+            <state line="73" column="36" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,14 +73,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/web.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/grader.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="24" />
+    <option name="x" value="113" />
+    <option name="y" value="66" />
     <option name="width" value="680" />
     <option name="height" value="644" />
   </component>
@@ -113,7 +110,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,17 +130,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="settings.nodejs" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web.js" />
-    <property name="options.searchVisible" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.grader.js">
     <configuration default="false" name="web.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/v0.10.12/bin/node" path-to-js-file="web.js" working-dir="$PROJECT_DIR$">
@@ -170,7 +167,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -219,13 +216,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="24" width="680" height="644" extended-state="0" />
+    <frame x="113" y="66" width="680" height="644" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19389313" sideWeight="0.67110264" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19389313" sideWeight="0.9524715" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -310,6 +307,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="26" selection-start="2819" selection-end="2819" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="36" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="30" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -343,21 +361,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="26" selection-start="2819" selection-end="2819" vertical-scroll-proportion="-7.8333335">
+        <state line="15" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="36" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.42334095">
+        <state line="73" column="36" selection-start="2291" selection-end="2291" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="37" selection-start="391" selection-end="391" vertical-scroll-proportion="0.36319613">
           <folding />
         </state>
       </provider>
