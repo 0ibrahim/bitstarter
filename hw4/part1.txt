@@ -1,1 +1,1 @@
-https://github.com/0ibrahim/bitstarter/blob/8961444e2202f90dfab90f2c4830fb2fad2df004/index.html
+https://raw.github.com/0ibrahim/bitstarter/8961444e2202f90dfab90f2c4830fb2fad2df004/index.html
